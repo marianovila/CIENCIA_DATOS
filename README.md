@@ -2,7 +2,7 @@
 Prácticas de la materia Ciencia de Datos   
 
 **OBJETIVO**    
-        
+Llevar un registro de prácticas realizadas en clase o posteriores a la clase.        
 
 **ESTADO DEL PROYECTO**      
 EN PROCESO.    
