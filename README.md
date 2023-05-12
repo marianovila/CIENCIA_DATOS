@@ -1,4 +1,4 @@
-# MATERIA PROCESAMIENTO DE DATOS
+# MATERIA CIENCIA DE DATOS
 
 ![types-of-machine-learning jpg optimal](https://user-images.githubusercontent.com/106885815/235266418-56f94b3a-41f4-4124-b059-7097b8cb0e6e.jpg)
 
