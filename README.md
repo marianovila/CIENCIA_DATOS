@@ -12,8 +12,9 @@ Llevar un registro de lo trabajado en clase y posterior a la clase.
 EN PROCESO.    
 
 **CONTENIDO**    
-    
-    
+1-Numpy: carpeta con ejercicios utilizando la librería Numpy.     
+1-Python: carpeta con ejercicios generales en Python.     
+
 **TECNOLOGÍAS**  
 * PYTHON  
 * JUPYTER NOTEBOOK  
