@@ -9,7 +9,7 @@ Prácticas realizadas en clases
 Llevar un registro de lo trabajado en clase y posterior a la clase.
 
 **ESTADO DEL PROYECTO**      
-EN PROCESO.    
+   
 
 **CONTENIDO**    
 1-Numpy: carpeta con ejercicios utilizando la librería Numpy.     
